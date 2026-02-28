@@ -169,5 +169,3 @@ See LICENSE for details.
 * [OpenAI API](https://platform.openai.com/)
 * [FAISS Vector Search](https://github.com/facebookresearch/faiss)
 * [FastAPI](https://fastapi.tiangolo.com/)
-
-```
