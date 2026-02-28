@@ -1,8 +1,3 @@
-Got it! Here’s a **complete, fully updated README.md** for your RAG GPT project, polished for GitHub, including setup, usage, mock mode, environment notes, and license instructions. This is ready to commit and push.
-
----
-
-```markdown
 # RAG GPT – Retrieval-Augmented Generation AI
 
 A Retrieval-Augmented Generation (RAG) system built with **FastAPI**, **OpenAI embeddings & LLMs**, and **FAISS vector store**.  
