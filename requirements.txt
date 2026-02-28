@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+openai
+faiss-cpu
+pydantic
+python-dotenv
+tiktoken
+numpy
+asyncpg
+sqlalchemy
