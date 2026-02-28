@@ -1,0 +1,7 @@
+Physics is the natural science that studies matter, energy, and the fundamental forces of nature. 
+It explores how objects move, interact, and exchange energy, ranging from subatomic particles to the cosmos. 
+Classical physics, including Newtonian mechanics, electromagnetism, and thermodynamics, forms the foundation of engineering and everyday technology. 
+
+Modern physics includes quantum mechanics and relativity, which describe phenomena at very small and very large scales. 
+Physics principles are applied in technology, such as electricity generation, transportation, medical imaging, and communication systems. 
+By understanding the laws of nature, physics allows humans to predict, control, and innovate in scientific and technological domains.

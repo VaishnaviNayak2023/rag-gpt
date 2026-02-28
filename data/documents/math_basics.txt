@@ -1,0 +1,6 @@
+Mathematics is the study of numbers, quantities, shapes, and patterns. It provides the foundation for logical reasoning, problem-solving, 
+and scientific analysis. Key branches include arithmetic (basic calculations), algebra (symbolic reasoning), geometry (shapes and space), 
+trigonometry (angles and relationships), and calculus (change and motion). 
+
+Mathematics is applied in engineering, physics, economics, data science, and everyday life. It allows humans to model real-world phenomena, 
+make predictions, optimize systems, and understand abstract concepts. Its universal principles make it an essential tool across disciplines.

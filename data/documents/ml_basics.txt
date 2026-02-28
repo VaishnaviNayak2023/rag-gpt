@@ -1,0 +1,13 @@
+Machine Learning (ML) is a subset of Artificial Intelligence that allows computers to learn from experience and data without being explicitly programmed. 
+At its core, machine learning involves creating algorithms that can detect patterns, make predictions, or take actions based on input data. 
+There are three main types of machine learning: supervised learning, unsupervised learning, and reinforcement learning.
+
+In supervised learning, models are trained on labeled datasets, where the input data is paired with correct output labels. 
+Examples include spam detection in emails, credit scoring, and image classification. 
+Unsupervised learning, on the other hand, deals with unlabeled data and aims to find underlying structures or patterns, 
+such as customer segmentation or anomaly detection. Reinforcement learning is a technique where an agent learns to make decisions by receiving rewards or penalties 
+based on its actions, commonly used in robotics, game-playing AI, and autonomous vehicles.
+
+Popular machine learning algorithms include linear regression, decision trees, support vector machines, 
+k-nearest neighbors, and neural networks. The choice of algorithm depends on the problem, data size, and desired accuracy. 
+Machine learning has transformed industries by enabling predictive analytics, intelligent automation, and personalization at scale.
